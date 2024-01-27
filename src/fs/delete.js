@@ -1,5 +1,5 @@
 import { existsSync, unlinkSync } from 'fs';
-import path, { join } from 'path';
+import path from 'path';
 import url from 'url';
 import fs from 'fs/promises';
 
